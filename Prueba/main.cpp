@@ -9,7 +9,7 @@ int main()
 
 
 
-
+//deje de ser quisquilloso
     cout <<&*a[0]<< endl;
     cout <<&a[0]<< endl;
     return 0;
