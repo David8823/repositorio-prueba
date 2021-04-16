@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "deje de trollear" << endl;
+    cout << "callese ud troll" << endl;
     return 0;
 }
